@@ -1,2 +1,2 @@
 # songgao12.github.io
-https://songgao12.github.io/web
+https://songgao12.github.io/
